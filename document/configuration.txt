@@ -1,0 +1,20 @@
+Inicializar o repositório criando o package.json
+yarn init -y
+
+Adicionar o react dom
+yarn add react-dom
+
+Adicionar o Babel
+yarn add @babel/core @babel/cli @babel/preset-env -D
+
+Converter o código 
+yarn babel src/index.js --out-file dist/bundle.js
+
+Fazer o babel entender o código react
+yarn add @babel/preset-react -D
+
+Instalar o Webpack
+yarn add webpack webpack-cli -D
+
+Instalar babel loader
+yarn add babel-loader -D

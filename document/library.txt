@@ -1,0 +1,45 @@
+Package.json
+informações principais do projeto, contém as dependências do projeto
+
+Pasta node_modules
+armazena o código das depências que a gente instala na nossa aplicação
+
+React Dom
+A forma de se trabalhar com react na web
+
+Babel
+Converter o nosso código para que todos os browsers e todas as aplicações
+possam entender o código
+
+-D
+Significa dependência de desenvolvimento significa que não vai utilizar a biblioteca
+se o projeto for online(quando for para produção)
+
+babel core
+99% das funcionalidades do babel estão nessa depedência
+
+babel cli
+é para eu poder executar o babel através da linha de comando
+
+babel/preset-env
+que identifica qual ambiente a aplicação esta sendo executada
+para converter o código da melhor maneira possível
+
+out-file
+Qual arquivo eu quero gerar a partir do arquivo inicial
+
+bundle
+é o nome do arquivo que normalmente a gente utiliza convertido pelo babel
+
+Webpack
+Vai estipular uma série de configurações que a gente chama de loaders
+que vão ensinar para nossa aplicação como ela deve tratar cada tipo de
+arquivo e vão converter para arquivos que são entedíveis pelo browser
+
+__dirname
+vai pegar o diretório onde colocou essa instrução
+
+babel loader
+Basicamente a intregração entre o babel e o webpack 
+
+
