@@ -18,3 +18,9 @@ yarn add webpack webpack-cli -D
 
 Instalar babel loader
 yarn add babel-loader -D
+
+Executar o webpack
+yarn webpack
+
+Instalar o plugin do webpack que injeta
+javascript no html

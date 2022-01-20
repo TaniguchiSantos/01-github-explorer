@@ -40,6 +40,13 @@ __dirname
 vai pegar o diretório onde colocou essa instrução
 
 babel loader
-Basicamente a intregração entre o babel e o webpack 
+Basicamente a intregração entre o babel e o webpack
 
+bundle.js
+Arquivo criado pelo webpack que inclui em um único arquivo 
+todo o código necessário para executar a aplicação
+
+A partir da versão 17 não precisa importar o React em todo 
+arquivo que vá utilizar jsx só passar uma configuração no
+arquivo babel.config que é o runtime com o valor automatic
 
