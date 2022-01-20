@@ -24,3 +24,33 @@ yarn webpack
 
 Instalar o plugin do webpack que injeta
 javascript no html
+
+Instalar plugin html do webpack
+yarn add html-webpack-plugin -D
+
+Instalar o webpack dev server
+yarn add webpack-dev-server -D
+
+Depois que configurar o webpack dev server 
+no webpack.config
+yarn webpack serve
+
+Criar a variavel NODE_ENV no linux
+NODE_ENV=production yarn webpack
+
+Definir variáveis ambiente independente
+do Sistema Operacional
+yarn add cross-env -D
+
+Executar o script
+yarn dev
+
+Instalar loader
+yarn add style-loader css-loader -D
+
+Instalar loader sass
+yarn add sass-loader -D
+
+Instalar node sass
+yarn add node-sass -D
+
