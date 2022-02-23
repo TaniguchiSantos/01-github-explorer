@@ -72,3 +72,24 @@ Utilizados em conjunto para entender os arquivos css
 sass
 pré processador de css
 
+Componente
+Componentes no react são como tags no html
+são uma forma da gente encapsular uma quanti
+dade de código dentro de um único elemento
+e esse elemento tem a sua própria funcionalidade
+sua própria estilização e sua própria estrutura
+é uma função começar sempre com a letra maiúscula
+
+Propriedade
+Funcionam como atributos funcionam dentro de tags html
+são informações variáveis que eu consigo passar para 
+um componente poder funcionar de forma diferente
+
+Argumentos
+Posso acessar todas as propriedades que um componente
+recebe através dos argumentos da função
+
+props
+O react coloca todas as propriedades dentro de um
+argumento chamado props
+
