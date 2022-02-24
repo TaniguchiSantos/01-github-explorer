@@ -99,3 +99,9 @@ Mostrar em tela
 Estado
 Que são variáveis que o React vai monitorar que toda vez que o
 valor dessas variáveis mudarem ai sim ele vai renderizar
+
+imutabilidade
+Que uma váriavel nunca vai poder ter seu valor alterado
+na verdade ela sempre vai receber um novo valor
+não pode alterar o valor da variável diretamente mas da um novo
+valor para ela
