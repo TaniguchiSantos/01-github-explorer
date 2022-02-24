@@ -93,3 +93,9 @@ props
 O react coloca todas as propriedades dentro de um
 argumento chamado props
 
+Renderizar
+Mostrar em tela
+
+Estado
+Que são variáveis que o React vai monitorar que toda vez que o
+valor dessas variáveis mudarem ai sim ele vai renderizar
