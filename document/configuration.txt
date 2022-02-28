@@ -54,3 +54,6 @@ yarn add sass-loader -D
 Instalar node sass
 yarn add node-sass -D
 
+instalar o react-refresh-webpack-plugin
+yarn add -D @pmmmwh/react-refresh-webpack-plugin react-refresh
+
