@@ -114,3 +114,21 @@ Fast Refresh
 é uma forma da gente conseguir alterar o código da nossa
 aplicação e salvar esse código  e ter esse código refleti
 do no nosso browser porém mantendo o estado dos componentes 
+
+&
+O elemento que tiver isso dentro sass referencia a ele mesmo
+
+hook
+são aquelas funções que a gente importa de dentro do react
+que começa com use
+
+UseEffect
+serve basicamente para eu disparar uma função quando algo
+acontecer na minha aplicação. Não deixar sem o segundo 
+parâmetro e nem usar uma variável com depedência, 
+se tiver só o primeiro parâmetro o useEffect
+vai entrar em loop
+
+map
+percorre cada um dos repositórios e para cada repositório
+ele retorna alguma coisa
