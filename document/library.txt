@@ -113,7 +113,15 @@ esta salva na memória
 Fast Refresh
 é uma forma da gente conseguir alterar o código da nossa
 aplicação e salvar esse código  e ter esse código refleti
-do no nosso browser porém mantendo o estado dos componentes 
+do no nosso browser porém mantendo o estado dos componentes
+
+O fast refresh não funcionaria em ambiente de produção pois seu 
+proposito não faz parte desse ambiente, pensa comigo, o fast refresh 
+serve para atualizar as alterações que fazemos no código, quando mudamos 
+um título uma cor ou mesmo alguma propriedade direto no código e isso em ambiente 
+de desenvolvimento. Uma vez que estamos em ambiente de produção o fast refresh não 
+funciona pois o usuário não possui acesso ao código fonte e consequentemente não 
+consegue realizar alguma alteração que possa disparar um refresh. 
 
 &
 O elemento que tiver isso dentro sass referencia a ele mesmo
@@ -132,3 +140,12 @@ vai entrar em loop
 map
 percorre cada um dos repositórios e para cada repositório
 ele retorna alguma coisa
+
+typesript 
+é um super set(que é um conjunto de funcionalidades
+que a gente adiciona encima de uma linguagem)
+Não deixar a gente errar no formato das coisas
+dentro da nossa aplicação
+
+tsconfig.json
+configuração do typescript

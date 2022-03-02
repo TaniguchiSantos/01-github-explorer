@@ -57,3 +57,15 @@ yarn add node-sass -D
 instalar o react-refresh-webpack-plugin
 yarn add -D @pmmmwh/react-refresh-webpack-plugin react-refresh
 
+instalar o typescritp
+yarn add typescript -D
+
+iniciar o typescript na minha aplicação
+yarn tsc --init
+
+Fazer com que o babel entenda Typescript
+yarn add @babel/preset-typescript -D
+
+
+
+
