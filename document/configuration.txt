@@ -66,6 +66,9 @@ yarn tsc --init
 Fazer com que o babel entenda Typescript
 yarn add @babel/preset-typescript -D
 
+Incluir tipagem na biblioteca de terceiros
+yarn add @types/react-dom -D
+
 
 
 

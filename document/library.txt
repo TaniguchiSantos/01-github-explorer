@@ -149,3 +149,6 @@ dentro da nossa aplicação
 
 tsconfig.json
 configuração do typescript
+
+Agora o react com a biblioteca de tipos
+juntos
